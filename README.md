@@ -1,6 +1,6 @@
 # 🛵 Building a Data Warehouse for Delivery Center
 
-![header](img/kai-pilger-tL92LY152Sk-unsplash.jpg)
+![header](img/delivery.jpg)
 
 ### 📜 Summary
 1. 📌 [About the Project](#-about-the-project)
@@ -20,7 +20,7 @@ The project uses the **medallion** architecture (bronze, silver, gold) to organi
 - **Silver**: Clean, standardized, and related data.
 - **Gold**: Analytical tables and metrics ready for consumption in BI or dashboards.
 
-![img](img/arq.png)
+![img](img/medallion.png)
 
 ##### Entity Relationship Diagram
 
@@ -28,7 +28,7 @@ The project uses the **medallion** architecture (bronze, silver, gold) to organi
 
 ##### Power BI Dashboard
 ![img](img/dash.png)
->[Access on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMGJmNTYwYTQtODIwYy00Y2FjLTliMGUtNDJjMGNjNDllNGZhIiwidCI6ImJmOWUzNDgwLTkyM2UtNDNmMS04OTE1LTlmMmY3YjY2NTc0MSJ9)
+>[Access on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMTRhNjM4NDMtOGU4YS00MzA1LTkyMTYtNjkxOGNhMTk3MGM5IiwidCI6ImFkYjQ5MjVhLTlhMzUtNDQ5MC05OGIwLTY2ZGY2MWFlZWY2MiIsImMiOjEwfQ%3D%3D)
 
 ## ⚙️ Technologies Used
 - 🐍 **Python** (Pandas, SQLAlchemy)
@@ -99,4 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ## 📞 Contact
 - 📬 lengocbaochan@gmail.com
 - 🖱️ 
-- 📱 
