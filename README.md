@@ -1,6 +1,6 @@
 # 🛵 Building a Data Warehouse for Delivery Center
 
-![header](img/delivery.jpg)
+![header](img/delivery.png)
 
 ### 📜 Summary
 1. 📌 [About the Project](#-about-the-project)
